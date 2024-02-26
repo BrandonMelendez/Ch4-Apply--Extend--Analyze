@@ -58,33 +58,33 @@ main a {
 }
 
 /* Orange */
-orange-hex {
-    background-color: #ff9b19;
+.orange-hex {
+    background-color:#ff9b19;
 }
-orange-rgb {
+.orange-rgb {
     background-color:rgb(255,155,25);
 }
-orange-hsl{
+.orange-hsl{
     background-color:hsl(34,100%,55%);
 }
 /* Purple */
-purple-hex {
-    background-color: #be01e4;
+.purple-hex {
+    background-color:#be01e4;
 }
-purple-rgb {
+.purple-rgb {
     background-color:rgb(190,1,228);
 }
-purple-hsl{
+.purple-hsl{
     background-color:hsl(290,99%,45%);
 }
 
 /* Green */
-green-hex {
+.green-hex {
     background-color: #2faa26;
 }
-green-rgb {
+.green-rgb {
     background-color:rgb(47,170,38);
 }
-green-hsl{
+.green-hsl{
     background-color:hsl(116,63%,41%);
 }
