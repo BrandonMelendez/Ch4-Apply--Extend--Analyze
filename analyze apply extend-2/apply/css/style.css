@@ -80,7 +80,7 @@ image {
 	padding: 1%;
 }
 
-group {
+#group {
 	width: 45%;
 	float: left;
 	padding: 1%;
@@ -102,8 +102,8 @@ footer{
 	color: #e3eaf8;
 	padding-top: 1%;
 	padding-bottom: 1%;
-	padding-right: 0%;
-	padding-left: 0%;
+	padding-right: 0;
+	padding-left: 0;
 }
 
 footer a{
